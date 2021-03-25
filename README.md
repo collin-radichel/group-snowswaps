@@ -5,7 +5,7 @@ _Style: 2 Week Sprint_
 
 SnowSwaps is a mobile-friendly online marketplace for members of snow-loving communities to buy, sell, or browse used snow-sport equipment. SnowSwaps bridges the gap between buyers and sellers of used snow sport equipment on a single platform. Members of the App can request permission from SnowSwaps to gain the ability to create virtual “swaps” where users can browse items listed in the swap. Swaps can be public, or they can be private requiring a passcode to interact with the swap. Buyers can contact sellers to negotiate price and a location to meet. 
 
-# Members
+## Authors
   - [Chris Emerfoll](https://github.com/Emerfoll)
   - [Collin Radichel](https://github.com/collin-radichel)
   - [Justin Appelgren](https://github.com/jappelgren)
@@ -95,12 +95,6 @@ Run the following commands from within your project folder.
 4. In terminal, type `git push heroku main`
 5. You will need to add a MONGO_URI to your config env on heroku.
 
-## Authors 
-
-  - [Chris Emerfoll](https://github.com/Emerfoll)
-  - [Collin Radichel](https://github.com/collin-radichel)
-  - [Justin Appelgren](https://github.com/jappelgren)
-  - [Woody Kromar](https://github.com/wkromar)
  
 ## Acknoweldgments
 
