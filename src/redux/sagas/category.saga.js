@@ -9,6 +9,7 @@ function* fetchCategories() {
   }
 }
 
+
 function* categorySaga() {
   yield takeEvery("FETCH_CATEGORIES", fetchCategories);
 }
